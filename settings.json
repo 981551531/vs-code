@@ -1,0 +1,28 @@
+//路径为 C:\Users\pcName\AppData\Roaming\Code\User
+{
+    "window.zoomLevel": 0,
+    "workbench.panel.location": "bottom",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontSize": 18,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.wordWrap": "on",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.renderIndentGuides": false,
+    "editor.hover.delay": 100,
+    "git.enableSmartCommit": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "task.slowProviderWarning": [
+        "npm"
+    ],
+    "editor.tabCompletion": "on"
+}
