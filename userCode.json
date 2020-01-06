@@ -164,6 +164,26 @@
 		],
 		"description": "if comonents"
 	},
+	"antd.getFieldDecorator": {
+		"prefix": "getFieldDecorator",
+		"body": [
+			"const { getFieldDecorator } = this.props.form; "
+		]
+	},
+	"antd.validateFields": {
+		"prefix": "validateFields",
+		"body": [
+			" this.props.form.validateFields((err, value) => {",
+			"",
+			" })"
+		]
+	},
+	"antd.getFieldsValue": {
+		"prefix": "getFieldsValue",
+		"body": [
+			"let ${1:code} = this.props.form.getFieldsValue();"
+		]
+	},
 	"styled": {
 		"prefix": "styled",
 		"body": [
