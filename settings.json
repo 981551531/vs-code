@@ -23,6 +23,8 @@
     "task.slowProviderWarning": [
         "npm"
     ],
+    "git.ignoreMissingGitWarning": true,
+    "editor.tabSize": 2,
     "editor.tabCompletion": "on",
     "emmet.triggerExpansionOnTab": true,
     "emmet.includeLanguages": {
