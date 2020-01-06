@@ -165,13 +165,13 @@
 		"description": "if comonents"
 	},
 	"antd.getFieldDecorator": {
-		"prefix": "getFieldDecorator",
+		"prefix": "antd.getFieldDecorator",
 		"body": [
 			"const { getFieldDecorator } = this.props.form; "
 		]
 	},
 	"antd.validateFields": {
-		"prefix": "validateFields",
+		"prefix": "antd.validateFields",
 		"body": [
 			" this.props.form.validateFields((err, value) => {",
 			"",
@@ -179,7 +179,7 @@
 		]
 	},
 	"antd.getFieldsValue": {
-		"prefix": "getFieldsValue",
+		"prefix": "antd.getFieldsValue",
 		"body": [
 			"let ${1:code} = this.props.form.getFieldsValue();"
 		]
