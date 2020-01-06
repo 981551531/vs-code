@@ -24,5 +24,6 @@
     "task.slowProviderWarning": [
         "npm"
     ],
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "emmet.triggerExpansionOnTab": true
 }
